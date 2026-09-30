@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pillow
+requests
+flask
